@@ -3,6 +3,16 @@ entries:
   go-application:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2024-09-27T00:19:14.954348734Z"
+    description: A Helm chart for Kubernetes
+    digest: 520e7efa3d7433cfe1e10bf6521de88af3a27450439b90fe993fc518d3599629
+    name: go-application
+    type: application
+    urls:
+    - https://github.com/darkishes/helm-charts/releases/download/go-application-0.2.1/go-application-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-08-14T00:51:35.223120701Z"
     description: A Helm chart for Kubernetes
     digest: 606c5544f85c265e450715544fc43df87f469afb384c360e4d91c28aaaae76ec
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://github.com/darkishes/helm-charts/releases/download/go-application-0.1.0/go-application-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-14T00:51:35.223136841Z"
+generated: "2024-09-27T00:19:14.954386063Z"
