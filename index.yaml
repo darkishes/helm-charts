@@ -41,4 +41,15 @@ entries:
     urls:
     - https://github.com/darkishes/helm-charts/releases/download/go-application-0.1.0/go-application-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-27T00:19:14.954386063Z"
+  go-job:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-04T01:22:18.310120221Z"
+    description: Run jobs for Go applications
+    digest: b45647c860350c0aec6630a29fde541e40b94099e573252ef06e5d6255b36c8c
+    name: go-job
+    type: application
+    urls:
+    - https://github.com/darkishes/helm-charts/releases/download/go-job-0.1.0/go-job-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-04T01:22:18.310136662Z"
