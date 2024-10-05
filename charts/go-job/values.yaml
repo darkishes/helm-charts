@@ -60,8 +60,4 @@ affinity: {}
 
 job:
   enabled: true
-  annotations:
-    "helm.sh/hook": pre-install,pre-upgrade
-    "helm.sh/hook-delete-policy": before-hook-creation,hook-succeeded
-    "helm.sh/hook-weight": "0"
   backoffLimit: 3
